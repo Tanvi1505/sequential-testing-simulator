@@ -1,8 +1,8 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sequential-testing-simulator-q4gwd9yswydt7jga9rnq4v.streamlit.app/)
 
 # Sequential A/B Testing Simulator
 
-**Live Demo:** [Try it here](YOUR_STREAMLIT_URL_HERE) | **GitHub:** [View Source](https://github.com/Tanvi1505/sequential-testing-simulator)
+**Live Demo:** [Try it here](https://sequential-testing-simulator-q4gwd9yswydt7jga9rnq4v.streamlit.app/) | **GitHub:** [View Source](https://github.com/Tanvi1505/sequential-testing-simulator)
 
 ## Overview
 
