@@ -65,6 +65,3 @@ Performance of different testing methods under continuous monitoring (10,000 sim
 1. Lan, K. K. G., & DeMets, D. L. (1983). Discrete sequential boundaries for clinical trials.
 2. O'Brien, P. C., & Fleming, T. R. (1979). A multiple testing procedure for clinical trials.
 3. Wald, A. (1945). Sequential tests of statistical hypotheses.
-
-
-STILL WORKING TO FIND A REAL-TIME DATASET TO TEST, HOWEVER THIS CODE IS REUSABLE FOR THE SIMULATION.
