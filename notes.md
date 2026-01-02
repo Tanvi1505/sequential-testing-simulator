@@ -1,4 +1,4 @@
-# Build Notes - Sequential A/B Testing Simulator
+# Notes - Sequential A/B Testing Simulator
 
 ## What This Project Does
 Interactive Streamlit tool demonstrating Type I error inflation in A/B testing and sequential testing corrections.
@@ -53,13 +53,6 @@ Would need to add:
 - Real-time monitoring
 
 Statistical methods in `src/statistical_tests.py` are production-ready and reusable.
-
-### Interview Talking Points
-- Why peeking breaks statistics (multiple testing problem)
-- How O'Brien-Fleming spending works mathematically
-- Why synthetic data (ground truth, reproducibility, scale)
-- How to extend for production use
-- Trade-offs between methods (SPRT vs alpha spending)
 
 ### Common Issues & Fixes
 - **Streamlit Cloud deployment error**: Use flexible package versions (>=)
